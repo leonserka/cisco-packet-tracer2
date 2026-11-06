@@ -9,6 +9,7 @@ Solved laboratory exercises for the **Napredno prospajanje u računalnim mrežam
 | [Practice1](Practice1/) | Switch CLI, basic configuration, management IP addressing, and MAC address tables | 2 `.pkt` files |
 | [Practice2](Practice2/) | VLANs, access and trunk ports, and inter-VLAN routing (Router-on-a-Stick) | 3 `.pkt` files |
 | [Practice3](Practice3/) | RSTP, root bridge selection, redundant links, and network convergence | 1 `.pkt` file |
+| [Practice4](Practice4/) | EtherChannel, port-channel configuration, trunking, STP status, and link redundancy | 1 `.pkt` file |
 
 Task instructions in Croatian are available in [tasks on croatian.pdf](tasks%20on%20croatian.pdf). File numbers refer to the corresponding exercise and task.
 
