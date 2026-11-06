@@ -4,6 +4,8 @@ Solved laboratory exercises for the **Napredno prospajanje u računalnim mrežam
 
 ## 📂 Completed Labs
 
+**Progress:** Labs 1–4 completed. Lab 4 files have not yet been added to this repository.
+
 | Folder | Topics | Files |
 | --- | --- | --- |
 | [Practice1](Practice1/) | Switch CLI, basic configuration, management IP addressing, and MAC address tables | 2 `.pkt` files |
